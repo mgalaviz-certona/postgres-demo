@@ -6,10 +6,15 @@ demo using postgres with java
 pre-requisites
 ==============
 *postgres database with the following table
+
 CREATE TABLE test_table
+
 (
+
   dt timestamp,
+
   id uuid
+
 );
 
 *properties file with the following content
