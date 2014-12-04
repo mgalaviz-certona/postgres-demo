@@ -14,9 +14,13 @@ CREATE TABLE test_table
 
 *properties file with the following content
 host=your host
+
 port=5432 (or whichever port is listening on)
+
 user=your db user
+
 pass=your db user password
+
 database=your db
 
 run
